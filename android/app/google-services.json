@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41013970325",
+    "firebase_url": "https://linuxapp-67ae8.firebaseio.com",
+    "project_id": "linuxapp-67ae8",
+    "storage_bucket": "linuxapp-67ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41013970325:android:75fecc9028c86757a6a29c",
+        "android_client_info": {
+          "package_name": "com.ram.linuxcommand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41013970325-eqq4npajsumrcpeet5ikj590hkejt4ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2xmmUVwB3aFkILT4Is4QS1dDXufNl04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41013970325-eqq4npajsumrcpeet5ikj590hkejt4ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
